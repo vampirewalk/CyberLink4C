@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <CyberLink/UPnP.h>
+#import <UPnP.h>
 
 @class CGUpnpAction;
 

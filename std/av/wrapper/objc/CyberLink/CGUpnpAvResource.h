@@ -7,6 +7,7 @@
 //
 
 #import <CyberLink/CGXmlNode.h>
+#import <QuartzCore/QuartzCore.h>
 
 /**
  * The CGUpnpAvResource class is a wrapper class for CgUpnpAction of CyberLink for C.
